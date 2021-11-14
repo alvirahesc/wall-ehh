@@ -1,9 +1,4 @@
-//TMJ 6 - UAS Robotika
-// Alvi Rahmatullah Akbar 
-// Brandhana Fajri Sulistiono
-// Fauziah Isma Daulay
-// Muhammad Diegan Abeldi
-// Raihantika
+//hey bro
 
 //SENSOR ULTRASON
 const int trigPin1 = 11;
